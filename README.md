@@ -1,7 +1,7 @@
-# Criterios para caso sospechoso en Chile: un análisis de definiciones alternativas
+# Criterios para caso sospechoso COVID-19 en Chile: un análisis de definiciones alternativas
 Repositorio del artículo "Propiedades diagnósticas de las definiciones de caso sospechoso de COVID-19 en Chile" (en revisión)
 
-Autores: Aubert, Josefina; Monsalves, María José,.... [Cuadrado, Cristóbal](http://github.com/ccuadradon)
+Autores: Aubert, Josefina; Monsalves, María José;.... [Cuadrado, Cristóbal](http://github.com/ccuadradon)
 
 ## Resumen
 Objetivo: Analizar las propiedades diagnósticas de cuatro criterios de caso sospechoso para COVID-19 utilizados en Chile entre marzo y junio del 2020.
